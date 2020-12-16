@@ -1,0 +1,1 @@
+Razvoj klijent-server aplikacije za koriscenje usluga sportskog centra u programskom jeziku Java.
